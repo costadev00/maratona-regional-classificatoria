@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+debug.cpp
+debug.c
+.vscode/settings.json

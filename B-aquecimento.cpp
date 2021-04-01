@@ -31,7 +31,6 @@ int main()
         }
         else if (y > aux)
         {
-
             aux = aux - fatorial(i - 1);
             i = 1;
             cont++;
